@@ -11,8 +11,8 @@ app.get("/", (req, res) => {
 // About route
 app.get("/about", (req, res) => {
   res.status(200).json({
-    name: "Narahari Shashivadana",
-    section: "CSE(FSD)-2B",
+    name: "Thokala vaishnavi",
+    section: "CSE-2E",
     
   });
 });
