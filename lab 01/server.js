@@ -5,7 +5,7 @@ const app = express();
 
 // Home route
 app.get("/", (req, res) => {
-  res.status(200).send("Welcome to my Lab 1 server!");
+  res.status(200).send("Welcome to Node.js and Express server!");
 });
 
 // About route
