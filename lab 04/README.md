@@ -5,7 +5,7 @@
 | **Detail** | **Information** |
 |---|---|
 | Name | Thokala Vaishnavi |
-| Registration Number | 252U1R1238 |
+| Registration Number | 252U1R1242 |
 | Section | CSE – 2E |
 | Course | Backend Development Fundamentals |
 | Year | II – Term II |
